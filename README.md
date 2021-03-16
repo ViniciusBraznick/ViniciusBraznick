@@ -21,7 +21,7 @@ const technologies = {
 ````
 ## 📬 Contato
 ````
-const contact= {
+const contact = {
    email: 'viniciusbraznick@gmail.com',
    linkedin: 'vinicius-braznick/'
 }
