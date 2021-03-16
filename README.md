@@ -2,15 +2,15 @@
  
 ### Sou estudante de análise e desenvolvimento de sistemas e desenvolvedor Front-End aficionado por escrever código.
 -----
-## 🔭 Interesses
+
 ````
-const interests= {
-   ['🧪 Back-End',
-	'📐 UX e UI Design',
-   ]
-}
+const interests =  
+	['🧪 Back-End',
+	 '📐 UX e UI Design'
+   	]
+
 ````
-## 🛠 Tecnologias
+
 ````
 const technologies = {
    markupLanguage: ['HTML5','CSS3','SASS'],
@@ -19,9 +19,9 @@ const technologies = {
    database: 'Firebase'
 }
 ````
-## 📬 Contato
+
 ````
-const contact = {
+const contacts = {
    email: 'viniciusbraznick@gmail.com',
    linkedin: 'vinicius-braznick/'
 }
