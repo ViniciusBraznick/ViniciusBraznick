@@ -1,16 +1,30 @@
-### Hi there 👋
+##  Vinícius Carneiro Braznick
+ 
+### Sou estudante de análise e desenvolvimento de sistemas e desenvolvedor Front-End aficionado por escrever código.
+-----
+## 🔭 Interesses
+````
+const interests= {
+   ['🧪 Back-End',
+	'📐 UX e UI Design',
+   ]
+}
+````
+## 🛠 Tecnologias
+````
+const technologies = {
+   markupLanguage: ['HTML5','CSS3','SASS'],
+   librarys: ['ReactJs','Jquery'],
+   programmingLanguage: ['JavaScript', 'PHP'],
+   database: 'Firebase'
+}
+````
+## 📬 Contato
+````
+const contact= {
+   email: 'viniciusbraznick@gmail.com',
+   linkedin: 'vinicius-braznick/'
+}
+````
 
-<!--
-**ViniciusBraznick/ViniciusBraznick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-braznick/)](https://www.linkedin.com/in/vinicius-braznick/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusbraznick@gmail.com)](mailto:viniciusbraznick@gmail.com)
