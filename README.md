@@ -12,7 +12,7 @@ const interests = ['🧪 Back-End',
 const technologies = {
    markupLanguage: ['HTML5','CSS3','SASS'],
    programmingLanguage: ['JavaScript', 'PHP'],
-   librarys: ['ReactJs','Jquery'],
+   librarys: ['ReactJS','jQquery'],
    database: 'Firebase'
 };
 ````
