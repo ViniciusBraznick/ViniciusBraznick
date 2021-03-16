@@ -3,24 +3,24 @@
 ### Sou estudante de análise e desenvolvimento de sistemas e desenvolvedor Front-End aficionado por escrever código.
 
 ````
-const interests = ['🧪 Back-End',
-		   '📐 UX e UI Design'];
+const Interests = ['🧪 Back-End',
+		   '📐 UX & UI Design'];
 
 ````
 
 ````
-const technologies = {
-   markupLanguage: ['HTML5','CSS3','SASS'],
-   programmingLanguage: ['JavaScript', 'PHP'],
+const Technologies = {
+   markup_language: ['HTML5','CSS3','SASS'],
+   programming_language: ['JavaScript', 'PHP'],
    library: ['ReactJS','jQuery'],
    database: 'Firebase'
 };
 ````
 
 ````
-const contacts = {
+const Contacts = {
    email: 'viniciusbraznick@gmail.com',
-   linkedin: 'vinicius-braznick'
+   linkedin: 'Vinicius Braznick'
 };
 ````
 
