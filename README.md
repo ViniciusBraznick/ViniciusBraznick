@@ -20,7 +20,7 @@ const technologies = {
 ````
 const contacts = {
    email: 'viniciusbraznick@gmail.com',
-   linkedin: 'vinicius-braznick/'
+   linkedin: 'vinicius-braznick'
 };
 ````
 
