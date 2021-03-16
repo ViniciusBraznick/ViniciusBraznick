@@ -1,7 +1,6 @@
 ##  Vinícius Carneiro Braznick
  
 ### Sou estudante de análise e desenvolvimento de sistemas e desenvolvedor Front-End aficionado por escrever código.
------
 
 ````
 const interests =  
