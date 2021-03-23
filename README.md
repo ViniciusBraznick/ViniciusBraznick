@@ -4,7 +4,7 @@
 
 ````
 const Interests = ['🧪 Back-End',
-		   '📐 UX & UI Design'];
+		   '📐 UX Design'];
 
 ````
 
