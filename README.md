@@ -3,8 +3,7 @@
 ### Estudante de análise e desenvolvimento de sistemas e desenvolvedor Front-End aficionado por escrever código.
 
 ````
-const Interests = ['🧪 Back-End',
-		   '📐 UX Design'];
+const Studying = ['UX Design', 'Node.js'];
 
 ````
 
