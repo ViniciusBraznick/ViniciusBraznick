@@ -12,7 +12,7 @@ const Technologies = {
    markup_language: ['HTML5','CSS3','SASS'],
    programming_language: ['JavaScript', 'PHP'],
    library: ['ReactJS','jQuery'],
-   database: 'Firebase'
+   database: ['Firebase','MySQL']
 };
 ````
 
