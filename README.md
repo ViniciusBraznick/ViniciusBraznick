@@ -1,7 +1,4 @@
 ##  Hello, world!
- 
-### Estudante de análise e desenvolvimento de sistemas e desenvolvedor front-end aficionado por escrever código.
-
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusbraznick&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
