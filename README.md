@@ -30,7 +30,7 @@ const Technologies = {
 ````
 
 ````
-const Contacts = {
+const Contact = {
    email: 'viniciusbraznick@gmail.com',
    linkedin: 'Vinicius Braznick'
 };
